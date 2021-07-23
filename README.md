@@ -25,3 +25,6 @@ This software can be optimized by making a GUI in which it could run. You can do
 ## Installation Required
 
 You must have Python 3.X + and pytube module downloaded in the computer
+
+## FAQs
+This software could be made in just 3 lines of code but because of error handling and making software more interactive had it took this much lines of code
